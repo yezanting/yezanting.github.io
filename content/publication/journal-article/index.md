@@ -1,30 +1,27 @@
 ---
-title: "An example journal article"
+title: "FSDA-DG: Improving cross-domain generalizability of medical image segmentation with few source domain annotations"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- 叶赞挺
+date: "2025-07-05T00:00:00Z"
+doi: "https://doi.org/10.1016/j.media.2025.103704"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-07-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["Medical Image Analysis"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Medical Image Analysis, 105*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Deep learning-based medical image segmentation faces significant challenges arising from limited labeled data and domain shifts. While prior approaches have primarily addressed these issues independently, their simultaneous occurrence is common in medical imaging. A method that generalizes to unseen domains using only minimal annotations offers significant practical value due to reduced data annotation and development costs. In pursuit of this goal, we propose FSDA-DG, a novel solution to improve cross-domain generalizability of medical image segmentation with few single-source domain annotations. Specifically, our approach introduces semantics-guided semi-supervised data augmentation. This method divides images into global broad regions and semantics-guided local regions, and applies distinct augmentation strategies to enrich data distribution. Within this framework, both labeled and unlabeled data are transformed into extensive domain knowledge while preserving domain-invariant semantic information. Additionally, FSDA-DG employs a multi-decoder U-Net pipeline semi-supervised learning (SSL) network to improve domain-invariant representation learning through consistent prior assumption across multiple perturbations. By integrating data-level and model-level designs, FSDA-DG achieves superior performance compared to state-of-the-art methods in two challenging single domain generalization (SDG) tasks with limited annotations. The code is publicly available at https://github.com/yezanting/FSDA-DG
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: FSDA-DG addresses domain shift and annotation scarcity in medical imaging.
 
 tags:
 - Source Themes
@@ -33,8 +30,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1361841525002518?casa_token=qtVI0wZQNvYAAAAA:senbS0QFP6jOF63Sr-ZyeTTwN8eOcJ2XBcwiD2VCUMR269YvXvZFUjqKjR74WiRFIygHlEnikg
+url_code: 'https://github.com/yezanting/FSDA-DG'
 url_dataset: ''
 url_poster: ''
 url_project: ''
