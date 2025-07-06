@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lijun Lu(路利军)
+title: Lijun Lu 路利军
 
 # Full Name (for SEO)
 first_name: Lijun
