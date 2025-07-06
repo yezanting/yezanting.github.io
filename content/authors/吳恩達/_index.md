@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alice Wu 叶赞挺
 
 # Full name (for SEO)
 first_name: Alice
