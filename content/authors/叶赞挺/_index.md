@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Soren Ye 叶赞挺
+title: Zanting Ye 叶赞挺
 
 # Full name (for SEO)
-first_name: Soren
+first_name: Zanting
 last_name: Ye
 
 # Username (this should match the folder name)
@@ -71,7 +71,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
