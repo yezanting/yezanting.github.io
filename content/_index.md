@@ -8,19 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        SMU PET Research Group
       image:
-        filename: welcome.jpg
+        filename: goal.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **SMU PET Research Group** has been a center of excellence for Artificial Intelligence for Health research, teaching, and practice. We are committed to achieving reliable and efficient AI-assisted diagnosis and treatment methods.
   
   - block: collection
     content:
       title: Latest News
-      subtitle:
+      subtitle: Our 3 Parers have been accepted  by MICCAI2025.
       text:
       count: 5
       filters:
