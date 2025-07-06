@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lijun Lu(路利军)
 
 # Full Name (for SEO)
 first_name: Lijun
