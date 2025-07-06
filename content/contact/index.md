@@ -18,8 +18,8 @@ sections:
         postcode: '510515'
         country: China
       coordinates:
-        latitude: '23.182606936958557'
-        longitude: '113.3341665611335'
+        latitude: '23.188'
+        longitude: '113.3286'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday-Friday 09:00 to 17:00'
