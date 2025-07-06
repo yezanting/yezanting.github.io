@@ -20,7 +20,7 @@ sections:
       coordinates:
         latitude: '23.188'
         longitude: '113.3286'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Life Sciences Building Laboratory 4
       office_hours:
         - 'Monday-Friday 09:00 to 17:00'
       #contact_links:
