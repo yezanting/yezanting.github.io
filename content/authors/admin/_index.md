@@ -62,8 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Supervisor
-  - Researchers
+  - Professors
 ---
 
-Nelson Bighetti is a professor of Professor of Biomedical Engineering at Southern Medical University. His research interests include ......
+Lijun Lu is a professor of Professor of Biomedical Engineering at Southern Medical University. His research interests include ......
