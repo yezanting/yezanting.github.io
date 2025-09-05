@@ -3,18 +3,18 @@
 title: Wenxiang Yi 易文翔
 
 # Full name (for SEO)
-first_name: Zanting
-last_name: Ye
+first_name: Wenxiang
+last_name: Yi
 
 # Username (this should match the folder name)
 authors:
-  - 叶赞挺
+  - 易文翔
 
 # Is this the primary user of the site?
-superuser: Lijun Lu
+superuser: Zanting Ye
 
 # Role/position
-role: PHD student of Biomedical Engineering
+role: MEng student of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Deep Learning, Medical Image Analysis and Vision Language Models.
+bio: My research interests include Deep Learning, Medical Image Analysis and Generation Models.
 
 interests:
   - Artificial Intelligence
   - Medical Image Analysis
-  - Vision Language Models
+
 
 education:
   courses:
-    - course: PhD in Biomedical Engineering
+    - course: MEng in Biomedical Engineering
       institution: Southern Medical University
       year: 2024
-    - course: MEng in Computer Science 
-      institution: Changzhou University
-      year: 2021
-    - course: BSc in Communications Engineering 
-      institution: Zhejiangshuren University
-      year: 2017
+    - course: BSc in Biomedical Engineering 
+      institution: Southern Medical University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,16 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yzt2861252880@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com.hk/citations?user=TzG0ekwAAAAJ&hl=zh-CN&authuser=1
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/yezanting
+    link: '2457009270@qq.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
