@@ -61,4 +61,4 @@ user_groups:
   - Graduate Students
 ---
 
-Zanting Ye is a first-year PhD student, interesting in medical image analysis and deep learning.
+Wenxiang Yi is a first-year MEng student, interesting in medical image analysis and deep learning.
