@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Southern Medical University PET Research Group
+        SMU PET Research Group
       image:
         filename: goal.jpg
       text: |
         <br>
         
-        The **SMU PET Research Group** has been a center of excellence for Artificial Intelligence for Health research, teaching, and practice. We are committed to achieving reliable and efficient AI-assisted diagnosis and treatment methods.
+        The **Southern Medical University PET Research Group** has been a center of excellence for Artificial Intelligence for Health research, teaching, and practice. We are committed to achieving reliable and efficient AI-assisted diagnosis and treatment methods.
   
   - block: collection
     content:
