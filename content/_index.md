@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        SMU PET Research Group
+        Southern Medical University PET Research Group
       image:
         filename: goal.jpg
       text: |
